@@ -1,7 +1,6 @@
 # ShortURL
 Shorting URL and unShot
-<h3>installing</h3>
-```
+<h3>installing :</h3>
 
 apt install git
 
@@ -14,5 +13,3 @@ cd ShortURL
 chmod +x ShortURL.sh
 
 bash ShortURL.sh
-
-```
