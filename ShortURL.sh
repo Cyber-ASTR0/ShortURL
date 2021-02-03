@@ -1,5 +1,5 @@
 #!/bin/bash
-# codee by astro
+# Coded By ASTRO
 clear
 
 C1='\e[1;32m' # COLOR GREEN
